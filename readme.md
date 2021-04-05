@@ -14,9 +14,6 @@ The data is daily diesel price across the various city in India. The charge vari
 ### Content
 The data consist of the date, fuel price and city name. There are a total of seven cities, such as Bengaluru, Chennai, Mumbai, Hyderabad, Delhi, Kolkata and  Coimbatore. The fuel price is Indian rupees.
 
-### Acknowledgements
-The data is parsed from  [mypetrolprice.com](https://www.mypetrolprice.com/diesel-price-in-india.aspx). The code used to parse data is present in  [github repository](https://github.com/sudhirln92/kaggle-datasets-and-kernels/tree/master/fuel-price-in-india). 
-
 ### Inspiration
 How to handle missing data in time-series data? 
 What is the price change with respect to a global price change?
